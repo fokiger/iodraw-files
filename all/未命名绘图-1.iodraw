@@ -38,12 +38,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="J3SZ_yDW8Mgwo8_U02ji-7" target="J3SZ_yDW8Mgwo8_U02ji-8">
+        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;strokeWidth=2;" edge="1" parent="1" source="J3SZ_yDW8Mgwo8_U02ji-7" target="J3SZ_yDW8Mgwo8_U02ji-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="J3SZ_yDW8Mgwo8_U02ji-8" target="J3SZ_yDW8Mgwo8_U02ji-9">
+        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;strokeWidth=2;" edge="1" parent="1" source="J3SZ_yDW8Mgwo8_U02ji-8" target="J3SZ_yDW8Mgwo8_U02ji-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
