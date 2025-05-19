@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="20" width="335" height="110" as="geometry" />
         </mxCell>
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-3" value="" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="130" width="30" height="30" as="geometry" />
+          <mxGeometry x="10" y="130" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-4" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="55" width="60" height="30" as="geometry" />
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="80" width="70" height="120" as="geometry" />
+          <mxGeometry x="40" y="85" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
