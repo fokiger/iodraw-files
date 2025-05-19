@@ -88,7 +88,7 @@
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;时序数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
