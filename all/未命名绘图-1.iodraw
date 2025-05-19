@@ -54,13 +54,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="J3SZ_yDW8Mgwo8_U02ji-6" target="J3SZ_yDW8Mgwo8_U02ji-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;strokeWidth=2;" edge="1" parent="1" source="J3SZ_yDW8Mgwo8_U02ji-10" target="J3SZ_yDW8Mgwo8_U02ji-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -85,6 +78,9 @@
             <mxPoint x="100" y="290" as="sourcePoint" />
             <mxPoint x="150" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
