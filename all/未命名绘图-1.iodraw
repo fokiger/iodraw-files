@@ -92,6 +92,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J3SZ_yDW8Mgwo8_U02ji-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
