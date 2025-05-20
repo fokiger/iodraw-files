@@ -12,20 +12,8 @@
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-4" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="33.75" width="127.5" height="111.25" as="geometry" />
         </mxCell>
-        <mxCell id="4KT3NT45fmmhtF9wCHPw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="231.5" as="sourcePoint" />
-            <mxPoint x="530" y="225.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="232.5" />
-              <mxPoint x="456" y="232.5" />
-              <mxPoint x="456" y="240.5" />
-              <mxPoint x="530" y="240.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-8" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="300" y="218" width="80" height="30" as="geometry" />
+          <mxGeometry x="310" y="182" width="100" height="102" as="geometry" />
         </mxCell>
         <mxCell id="J3SZ_yDW8Mgwo8_U02ji-10" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="730" y="146.5" width="60" height="30" as="geometry" />
